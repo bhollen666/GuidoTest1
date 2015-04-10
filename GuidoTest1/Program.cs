@@ -11,6 +11,7 @@ namespace GuidoTest1
         {
             long lngValue = 5;
             string strValue = lngValue.ToString();
+            string strNewValue = lngValue.ToString();
         }
     }
 }
